@@ -1,0 +1,5 @@
+hamonikr-server-backgrounds (1.0.0) stable; urgency=low
+
+  * change background path in hamonikr.xml
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 30 Oct 2020 10:18:50 +0900
