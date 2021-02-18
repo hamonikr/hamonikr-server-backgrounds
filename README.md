@@ -1,20 +1,19 @@
-# HamoniKR OS background images
+## HamoniKR Server OS backgrounds
 
 Image resources for HamoniKR background
 
-
-# Install (HamoniKR-ME, HamoniKR-3.0), HamoniKR-JIN)
+### Install (HamoniKR Server 2.0 ENTJIN)
 ```
-sudo apt install hamonikr-backgrounds
+sudo apt install hamonikr-server-backgrounds
 ```
 
-# How to build debian package
+### How to build debian package
 ```
 debuild -T clean
 debuild -us -uc
 ```
 
-# License
+### License
 
 [GPL3](./LICENSE)
 
